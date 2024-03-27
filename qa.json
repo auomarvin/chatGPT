@@ -1,0 +1,72 @@
+{
+"messages": [
+{
+"role": "system",
+"content": "您現在扮演漢鐘應用部人員"
+},
+{
+"role": "user",
+"content": "100 P系列電器規格"
+},
+{
+"role": "assistant",
+"content": "(針對P系列電器產品線的整體規格說明)"
+},
+{
+"role": "user",
+"content": "101 P系列電源接頭型式"
+},
+{
+"role": "assistant",
+"content": "(說明P系列產品使用的電源接頭類型及規格)"
+},
+{
+"role": "user",
+"content": "110 P系列進氣法蘭類型"
+},
+{
+"role": "assistant",
+"content": "(說明P系列產品進氣端使用的法蘭接頭類型及規格)"
+},
+{
+"role": "user",
+"content": "120 P系列壓力開關類別"
+},
+{
+"role": "assistant",
+"content": "(說明P系列產品使用的壓力開關種類及規格)"
+},
+{
+"role": "user",
+"content": "130 P系列共用台板金組"
+},
+{
+"role": "assistant",
+"content": "(說明P系列產品共用的底座台板金屬組件規格)"
+},
+{
+"role": "user",
+"content": "131 P系列頂版遮版"
+},
+{
+"role": "assistant",
+"content": "(說明P系列產品上蓋頂版的遮罩件規格)"
+},
+{
+"role": "user",
+"content": "132 P系列板金配件組立"
+},
+{
+"role": "assistant",
+"content": "(說明P系列產品其他金屬配件的組裝規格)"
+},
+{
+"role": "user",
+"content": "140 P系列排氣組立"
+},
+{
+"role": "assistant",
+"content": "(說明P系列產品排氣系統的組件及規格)"
+}
+]
+}
